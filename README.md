@@ -16,7 +16,7 @@
 ## Getting Started
 
 a fully responsive dashboard template, created with bootstrap, jquery, nodejs, ejs & vanilla javascript, that showcases legacy techniques in web development,
-a very simple and minimalist approach without using in the edge technologies. This is a rewritten version of ThemeSelection's Sneat bootstrap dashboard,
+a very simple and minimalist approach without using in the edge technologies. This is a rewritten version of <a href="https://demos.themeselection.com/sneat-bootstrap-html-admin-template-free/html/" target="_blank">ThemeSelection's Sneat bootstrap dashboard</a>,
 in full nodejs
 
 ### Pre-requisites
